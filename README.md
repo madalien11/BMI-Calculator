@@ -1,6 +1,7 @@
 # mybmicalculatorflutter
 
-A new Flutter application.
+BMI Calculator - A Health App that calculates Body mass index of the user implementing custom widgets
+Online course by: https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
 
 ## Getting Started
 
